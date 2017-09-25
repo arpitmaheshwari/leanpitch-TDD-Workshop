@@ -1,0 +1,28 @@
+{
+  "gates": [
+    {
+      "gate": "G1",
+      "availibility": true,
+      "flightID": "NA",
+      "carrierName": "NA"
+    },
+    {
+      "gate": "G2",
+      "availibility": false,
+      "flightID": "LF123",
+      "carrierName": "Lufthansa"
+    },
+    {
+      "gate": "G3",
+      "availibility": false,
+      "flightID": "AI121",
+      "carrierName": "Air India"
+    },
+    {
+      "gate": "G4",
+      "availibility": true,
+      "flightID": "NA",
+      "carrierName": "NA"
+    }
+  ]
+}
